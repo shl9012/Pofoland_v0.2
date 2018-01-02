@@ -1,2 +1,5 @@
 /target/
 /08.Workspace/
+.settings/
+.classpath
+*.bak
